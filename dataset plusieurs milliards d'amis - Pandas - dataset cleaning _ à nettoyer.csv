@@ -1,0 +1,49 @@
+cleaning the data set / dataset à nettoyer,,,,,,,,
+"First name
+Prénom","Age
+Age","Height (in m)
+Taille (en m)","Native country
+Pays de naissance","Country of residence
+Pays de résidence","Housing type
+Type de logement","Number of pets
+Nombre d’animal de compagnie","Net monthly salary
+Salaire mensuel net","Number of university year after college grade
+Années d’études après le Bac"
+Rana,27,1.61,France,France,Appartement,0,1783,5
+Mioko,24,1.49,Japan,France,Studio,-3,477111,2
+Prisca,24,153,Côte d'ivoire,France,Logement étudiant,0,1502,2
+Marc,23,1.65,France,France,Logement étudiant,0,1309,0
+Henri,31,1.82,France,France,Appartement,1,2017,3
+Hanna,25,3.45,24,France,Maison,5,2540,3
+Samuel,29,1.75,France,France,Maison,1,4100,5
+Lee,25,1.66,Chine,France,Studio,A,1998,5
+Manuel,25,1.79,Mexique,France,Maison,0,37664,5
+Suk-Ho,24,1.71,Corée du Sud,France,Appartement,0,3705,5
+Mioko,24,1.52,Japon,France,Maison,0,403310,2
+Jung,21,1.69,Corée de l’Ouest,France,Appartement,2,2652,3
+Toby,24,1.88,Grande Bretagne,France,Appartement,0,105,24
+Loïc,33,1.91,Bretagne,France,Appartement,0,2804,3
+Magalie,35,1530,France,France,Studio,0,1790,2
+Giovani,25,1.78,Italie,France,Appartement,1,2110,3
+Jane,6,1.52,Thailande,France,Maison,4,2670,5
+Pierre,22,1.59,France,France,Appartement,2,4130,5
+Malik,22,1.95,France,France,Studio,0,1656,0
+Nicolas,28,1.93,Bénin,France,Maison,0,3340,5
+David,25,180,États Unis,France,Appartement,1,2280,5
+Kevin,23,1.68,Madagascar,France,Appartement,1,2225,3
+Sarah,25,1.83,France,France,Maison,1,3920,5
+Michelle,25,1.76,Canada,France,Appartement,4,2347,5
+Martine,83,1.60,France,France,Logement étudiant,0,1866,3
+Jean-François,124,1.63,France,,Maison,0,3402,5
+Mathilde,22,168,France,France,Appartement,1,1976,3
+Caroline,24,1.73,Corse,France,Maison,3,2199,5
+Jamil,24,1780,France,France,Maison,2,2745,5
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Identified cells
+Cellules identifiées","Reason why it is a mistake
+Pourquoi il s’agit d’une erreur",,,,,,,
+"Example : Cell B77
+Exemple : Celulle B77","The value is aberrant, the dinosaurus don't exist anymore.
+La valeur est aberrante, les dinosaures n’existent plus.",,,,,,,
