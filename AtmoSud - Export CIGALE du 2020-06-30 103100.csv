@@ -1,14 +1,3 @@
-﻿AtmoSud inventaire v6.3 - Export CIGALE du 2020-06-30 10:31:25
-
-Conditions Générales d'utilisation: 
-
- Diffusion libre pour une réutilisation ultérieure des données dans les conditions ci-dessous : 
- – Toute utilisation partielle ou totale de ces données doit faire référence à AtmoSud en terme de "AtmoSud - Inventaire énergétique et d'émissions de polluants et gaz à effet de serre". 
- – Données non rediffusées en cas de modification ultérieure des données. 
- 
- Les données contenues dans ce document restent la propriété d'AtmoSud.
- AtmoSud peut rediffuser ce document à d'autres destinataires. 
-
 "Année","Entité administrative","Id Entité","Activité","Energie","Variable","Valeur","Unite"
 "2017","ABRIÈS (05)","5001","Tous secteurs","Toutes énergies","co2","2586389.3","kg"
 "2017","AIGLUN (04)","4001","Tous secteurs","Toutes énergies","co2","6569527.4","kg"
